@@ -1,5 +1,6 @@
 from app import app, db
 from server.models import Customer, Item, Review
+from server.models import Review
 
 
 class TestReview:
